@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: #F9DEBF;
+    color: #4D4B63;
+    margin: 5%;
+}   
+
+
+h1 {
+    font-family: "Lora", serif;
+    text-decoration: underline;
+    text-align: left;
+    font-weight:900;
+}
+
+h2 {
+    font-family: "Lora", serif;
+    text-align: left;
+    font-weight:700;
+}
+
+
+h3 {font-weight:400;}
